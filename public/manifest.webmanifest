@@ -1,0 +1,14 @@
+{
+  "name": "DrDoc: Doctor Document",
+  "short_name": "DrDoc",
+  "description": "Edit, convert, organize and compress PDFs and documents in your browser.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fbfbfa",
+  "theme_color": "#0f7b6c",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
